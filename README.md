@@ -4,3 +4,5 @@ NDVI: https://drive.google.com/file/d/1TxcmIKeWEzwcq_UOuWPiL2uOYyR5nVky/view?usp
 
 Put Satellite imagery inside assets/raster/sat_img folder
 Put NDVI inside assets/raster/ndvi folder
+
+Make sure to change the URL of images and file in .py files: docx_report_generator and gis_reporting_system.
